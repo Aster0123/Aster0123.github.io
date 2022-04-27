@@ -1,0 +1,86 @@
+[
+  {
+    "localTime": "2022/02/14 09:40:56",
+    "city" : "Dubai",
+    "number_flight": "FZ023",
+    "uri_logo": "https://api.bac.bh/api/fids/FZ.png"
+  },
+  {
+    "localTime": "2022-02-14T10:50:56.974",
+    "city" : "Jeddah",
+    "number_flight": "GF2182",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-14T11:10:56.974",
+    "city" : "Abu Dhabi",
+    "number_flight": "GF541",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-14T18:00:56.974",
+    "city" : "Kuwait",
+    "number_flight": "IX789",
+    "uri_logo": "https://api.bac.bh/api/fids/IX.png"
+  },
+  {
+    "localTime": "2022-02-14T11:50:00.974",
+    "city" : "Dubai",
+    "number_flight": "GF501",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-14T12:40:00.974",
+    "city" : "Sharjah",
+    "number_flight": "GF9101",
+    "uri_logo": "https://api.bac.bh/api/fids/G9.png"
+  },
+  {
+    "localTime": "2022-02-14T14:30:00.974",
+    "city" : "Dubai",
+    "number_flight": "GF501",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-14T16:40:00.974",
+    "city" : "Kyiv",
+    "number_flight": "GF013",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-14T20:00:00.974",
+    "city" : "Kannur",
+    "number_flight": "IX789",
+    "uri_logo": "https://api.bac.bh/api/fids/IX.png"
+  },
+  {
+    "localTime": "2022-02-14T23:15:00.974",
+    "city" : "Tyshitsia",
+    "number_flight": "IX799",
+    "uri_logo": "https://api.bac.bh/api/fids/IX.png"
+  },
+  {
+    "localTime": "2022-02-08T23:15:00.974",
+    "city" : "Sabina Goksen",
+    "number_flight": "TK7675",
+    "uri_logo": "https://api.bac.bh/api/fids/TK.png"
+  },
+  {
+    "localTime": "2022-02-07T23:15:00.974",
+    "city" : "Siakot",
+    "number_flight": "GF772",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-07T23:15:00.974",
+    "city" : "Multan",
+    "number_flight": "GF777",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png"
+  },
+  {
+    "localTime": "2022-02-09T11:50:00.974",
+    "city" : "Dubai",
+    "number_flight": "GF511",
+    "uri_logo": "https://api.bac.bh/api/fids/FZ.png"
+  }
+]
