@@ -11,5 +11,57 @@
     "velocity": 27573.950400245,
     "footprint": 4508.635335456,
     "daynum": 2459697.3542593
+  },
+  {
+    "time": "10:00:00",
+    "origin" : "Jeddah",
+    "number_flight": "GF2182",
+    "uri_logo": "https://api.bac.bh/api/fids/GF.png",
+    "destination": "Dubai",
+    "latitude": 25.276987,
+    "longitude": 55.296249,
+    "altitude": 420.23037814348,
+    "velocity": 27573.950400245,
+    "footprint": 4508.635335456,
+    "daynum": 2459697.3542593
+  },
+  {
+    "time": "10:10:56",
+    "origin" : "Kuwait",
+    "number_flight": "FZ023",
+    "uri_logo": "https://api.bac.bh/api/fids/FZ.png",
+    "destination": "Tel Aviv",
+    "latitude":  24.466667,
+    "longitude": 54.366669,
+    "altitude": 420.23037814348,
+    "velocity": 27573.950400245,
+    "footprint": 4508.635335456,
+    "daynum": 2459697.3542593
+  },
+  {
+    "time": "11:40:56",
+    "origin" : "Sharjah",
+    "number_flight": "FZ023",
+    "uri_logo": "https://api.bac.bh/api/fids/FZ.png",
+    "destination": "Tel Aviv",
+    "latitude": 45.683334,
+    "longitude": -73.433334,
+    "altitude": 420.23037814348,
+    "velocity": 27573.950400245,
+    "footprint": 4508.635335456,
+    "daynum": 2459697.3542593
+  },
+  {
+    "time": "12:30:00",
+    "origin" : "Dubai",
+    "number_flight": "FZ023",
+    "uri_logo": "https://api.bac.bh/api/fids/FZ.png",
+    "destination": "Kuwait",
+    "latitude": 29.336573,
+    "longitude": 47.675529,
+    "altitude": 420.23037814348,
+    "velocity": 27573.950400245,
+    "footprint": 4508.635335456,
+    "daynum": 2459697.3542593
   }
     ]
