@@ -3,482 +3,723 @@
     {
       "flight_number": "FZ023",
       "origin": "Vilnius",
-      "time":"08:40",
+      "date": "2022-05-19 08:40:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status": "on time",
-      "flight-status": "arrivals",
-      "longitude":"50.993763650000005",
-      "latitude":"26.73903535698228",
-      "direction": "130"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "FZ8849",
       "origin": "Dubai",
-      "time": "08:50",
+      "date": "2022-05-19 08:50:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"21.30269",
-      "latitude":"70.63696",
-      "direction": "25"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF070",
       "origin": "Dubai",
-      "time":"08:50",
+      "date": "2022-05-19 08:50:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
-      "flight-status": "arrivals",
-      "longitude":"36.49413",
-      "latitude":"57.5421",
-      "direction": "29"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF044",
       "origin": "Cairo",
-      "time":"09:00",
+      "date": "2022-05-19 09:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/MS.png",
       "airline": "EgyptAir",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"39.98585",
-      "latitude":"45.50659",
-      "direction": "45"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF2183",
       "origin": "Dubai",
-      "time": "09:10",
+      "date": "2022-05-19 09:10:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
-      "flight-status": "arrivals",
-      "longitude":"40.93163",
-      "latitude":"83.81726",
-      "direction": "78"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF010",
       "origin": "Cairo",
-      "time":"9:20",
+      "date": "2022-05-19 09:20:14",
       "airline_logo":"https://api.bac.bh/api/fids/MS.png",
       "airline": "EgyptAir",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"41.5183",
-      "latitude":"74.78081",
-      "direction": "200"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF2168",
       "origin": "Abu Dhabi",
-      "time":"09:45",
+      "date": "2022-05-19 09:45:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"on time",
-      "flight-status": "arrivals",
-      "longitude":"41.42079",
-      "latitude":"73.5783",
-      "direction": "108"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF2138",
       "origin": "Abu Dhabi",
-      "time":"09:40",
+      "date": "2022-05-19 09:40:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"42.08414",
-      "latitude":"50.6260439",
-      "direction": "135"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF511",
       "origin": "Jeddah",
-      "time":"10:15",
+      "date": "2022-05-19 10:15:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "arrivals",
-      "longitude":"21.5810088",
-      "latitude":"39.1653612",
-      "direction": "135"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF541",
       "origin": "Abu Dhabi",
-      "time":"10:30",
+      "date": "2022-05-19 10:30:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"24.4538352",
-      "latitude":"54.3774014",
-      "direction": "95"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF501",
       "origin": "Dubai",
       "time":"11:00",
+      "date": "2022-05-19 11:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"cancelled",
-      "flight-status": "arrivals",
-      "longitude":"25.2653471",
-      "latitude":"55.2924914",
-      "direction": "60"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF9101",
       "origin": "Sharjah",
-      "time":"11:15",
+      "date": "2022-05-19 11:15:14",
       "airline_logo":"https://api.bac.bh/api/fids/G9.png",
       "airline": "AirArabia",
       "status":"cancelled",
-      "flight-status": "departures",
-      "longitude":"25.33320525",
-      "latitude":"55.41942849479064",
-      "direction": "120"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF839",
       "origin": "Istambul",
-      "time":"11:30",
+      "date": "2022-05-19 11:30:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "arrivals",
-      "longitude":"36.9118228",
-      "latitude":"-2.1648303",
-      "direction": "140"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF0012",
       "origin": "Kyiv",
-      "time": "11:40",
+      "date": "2022-05-19 11:40:14",
       "airline_logo": "https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "76"
+      "flight-status": "departures"
     },
     {
       "flight_number": "IX789",
       "origin": "Kannur",
-      "time":"12:10",
+      "date": "2022-05-19 12:10:14",
       "airline_logo":"https://api.bac.bh/api/fids/IX.png",
       "airline": "AirIndia",
       "status":"early",
-      "flight-status": "arrivals",
-      "longitude":"11.8763391",
-      "latitude":"75.3737987",
-      "direction": "120"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "TK7675",
       "origin": "Sabina Goksen",
-      "time": "12:50",
+      "date": "2022-05-19 12:50:14",
       "airline_logo": "https://api.bac.bh/api/fids/TK.png",
       "airline": "TurkishAirlines",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "90"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF772",
       "origin": "Siakot",
-      "time":"13:40",
+      "date": "2022-05-19 13:40:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status": "cancelled",
-      "flight-status": "arrivals",
-      "longitude":"-17.1326463",
-      "latitude":"28.3629726",
-      "direction": "111"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF777",
       "origin": "Multan",
-      "time": "13:20",
+      "date": "2022-05-19 13:20:14",
       "airline_logo": "https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "90"
+      "flight-status": "departures"
     },
     {
       "flight_number": "FD072",
       "origin": "Dubai",
-      "time":"14:00",
+      "date": "2022-05-19 14:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/FZ.png",
       "airline": "FlyDubai",
       "status": "cancelled",
-      "flight-status": "arrivals",
-      "longitude":"-17.1326463",
-      "latitude":"28.3629726",
-      "direction": "111"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "L1277",
       "origin": "Kuwait",
-      "time": "14:15",
+      "date": "2022-05-19 14:15:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "90"
+      "flight-status": "departures"
     },
     {
       "flight_number": "FZ022",
       "origin": "Vilnius",
-      "time":"14:30",
+      "date": "2022-05-19 14:30:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status": "on time",
-      "flight-status": "arrivals",
-      "longitude":"50.993763650000005",
-      "latitude":"26.73903535698228",
-      "direction": "130"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "FZ8649",
       "origin": "Dubai",
-      "time": "15:00",
+      "date": "2022-05-19 15:00:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"21.30269",
-      "latitude":"70.63696",
-      "direction": "25"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF080",
       "origin": "Dubai",
-      "time":"15:10",
+      "date": "2022-05-19 15:10:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
-      "flight-status": "arrivals",
-      "longitude":"36.49413",
-      "latitude":"57.5421",
-      "direction": "29"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF024",
       "origin": "Cairo",
-      "time":"15:30",
+      "date": "2022-05-19 15:30:14",
       "airline_logo":"https://api.bac.bh/api/fids/MS.png",
       "airline": "EgyptAir",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"39.98585",
-      "latitude":"45.50659",
-      "direction": "45"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF1183",
       "origin": "Dubai",
-      "time": "16:10",
+      "date": "2022-05-19 16:10:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"on time",
-      "flight-status": "arrivals",
-      "longitude":"40.93163",
-      "latitude":"83.81726",
-      "direction": "78"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF0010",
       "origin": "Cairo",
-      "time":"16:15",
+      "date": "2022-05-19 16:15:14",
       "airline_logo":"https://api.bac.bh/api/fids/MS.png",
       "airline": "EgyptAir",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"41.5183",
-      "latitude":"74.78081",
-      "direction": "200"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF168",
       "origin": "Abu Dhabi",
-      "time":"17:00",
+      "date": "2022-05-19 17:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"on time",
-      "flight-status": "arrivals",
-      "longitude":"41.42079",
-      "latitude":"73.5783",
-      "direction": "108"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF3218",
       "origin": "Abu Dhabi",
-      "time":"17:10",
+      "date": "2022-05-19 17:10:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"on time",
-      "flight-status": "departures",
-      "longitude":"42.08414",
-      "latitude":"50.6260439",
-      "direction": "135"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF519",
       "origin": "Jeddah",
-      "time":"17:35",
+      "date": "2022-05-19 17:35:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "arrivals",
-      "longitude":"21.5810088",
-      "latitude":"39.1653612",
-      "direction": "135"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF587",
       "origin": "Abu Dhabi",
-      "time":"17:40",
+      "date": "2022-05-19 17:40:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"24.4538352",
-      "latitude":"54.3774014",
-      "direction": "95"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF511",
       "origin": "Dubai",
-      "time":"18:30",
+      "date": "2022-05-19 18:30:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"cancelled",
-      "flight-status": "arrivals",
-      "longitude":"25.2653471",
-      "latitude":"55.2924914",
-      "direction": "60"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF1506",
       "origin": "Sharjah",
-      "time":"18:50",
+      "date": "2022-05-19 18:50:14",
       "airline_logo":"https://api.bac.bh/api/fids/G9.png",
       "airline": "AirArabia",
       "status":"cancelled",
-      "flight-status": "departures",
-      "longitude":"25.33320525",
-      "latitude":"55.41942849479064",
-      "direction": "120"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF831",
       "origin": "Istambul",
-      "time":"19:00",
+      "date": "2022-05-19 19:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "arrivals",
-      "longitude":"36.9118228",
-      "latitude":"-2.1648303",
-      "direction": "140"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF012",
       "origin": "Kyiv",
-      "time": "19:35",
+      "date": "2022-05-19 19:35:14",
       "airline_logo": "https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "76"
+      "flight-status": "departures"
     },
     {
       "flight_number": "IX989",
       "origin": "Kannur",
-      "time":"20:10",
+      "date": "2022-05-19 20:10:14",
       "airline_logo":"https://api.bac.bh/api/fids/IX.png",
       "airline": "AirIndia",
       "status":"early",
-      "flight-status": "arrivals",
-      "longitude":"11.8763391",
-      "latitude":"75.3737987",
-      "direction": "120"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "TK6675",
       "origin": "Sabina Goksen",
-      "time": "20:30",
+      "date": "2022-05-19 20:30:14",
       "airline_logo": "https://api.bac.bh/api/fids/TK.png",
       "airline": "TurkishAirlines",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "90"
+      "flight-status": "departures"
     },
     {
       "flight_number": "GF172",
       "origin": "Siakot",
-      "time":"21:15",
+      "date": "2022-05-19 21:15:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status": "cancelled",
-      "flight-status": "arrivals",
-      "longitude":"-17.1326463",
-      "latitude":"28.3629726",
-      "direction": "111"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "GF177",
       "origin": "Multan",
-      "time": "21:45",
+      "date": "2022-05-19 21:45:14",
       "airline_logo": "https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "90"
+      "flight-status": "departures"
     },
     {
       "flight_number": "FD272",
       "origin": "Dubai",
-      "time":"22:00",
+      "date": "2022-05-19 22:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/FZ.png",
       "airline": "FlyDubai",
       "status": "cancelled",
-      "flight-status": "arrivals",
-      "longitude":"-17.1326463",
-      "latitude":"28.3629726",
-      "direction": "111"
+      "flight-status": "arrivals"
     },
     {
       "flight_number": "L15477",
       "origin": "Kuwait",
-      "time": "22:30",
+      "date": "2022-05-19 22:30:14",
       "airline_logo": "https://api.bac.bh/api/fids/LH.png",
       "airline": "Lufthansa",
       "status":"early",
-      "flight-status": "departures",
-      "longitude":"26.1551249",
-      "latitude":"50.5344606",
-      "direction": "90"
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "FZ123",
+      "origin": "Dubai",
+      "date": "2022-05-20 08:40:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status": "on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "FZ8841",
+      "origin": "Vilnius",
+      "date": "2022-05-20 08:50:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF577",
+      "origin": "Dubai",
+      "date": "2022-05-20 08:50:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF114",
+      "origin": "Cairo",
+      "date": "2022-05-20 09:00:14",
+      "airline_logo":"https://api.bac.bh/api/fids/MS.png",
+      "airline": "EgyptAir",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF2183",
+      "origin": "Dubai",
+      "date": "2022-05-20 09:10:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF110",
+      "origin": "Cairo",
+      "date": "2022-05-20 09:20:14",
+      "airline_logo":"https://api.bac.bh/api/fids/MS.png",
+      "airline": "EgyptAir",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF2111",
+      "origin": "Abu Dhabi",
+      "date": "2022-05-20 09:45:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF2238",
+      "origin": "Abu Dhabi",
+      "date": "2022-05-20 09:40:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF581",
+      "origin": "Jeddah",
+      "date": "2022-05-20 10:15:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF1141",
+      "origin": "Abu Dhabi",
+      "date": "2022-05-20 10:30:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF551",
+      "origin": "Dubai",
+      "date": "2022-05-20 11:00:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"cancelled",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF9551",
+      "origin": "Sharjah",
+      "date": "2022-05-20 11:15:14",
+      "airline_logo":"https://api.bac.bh/api/fids/G9.png",
+      "airline": "AirArabia",
+      "status":"cancelled",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF833",
+      "origin": "Istambul",
+      "date": "2022-05-20 11:30:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF0812",
+      "origin": "Kyiv",
+      "date": "2022-05-20 11:40:14",
+      "airline_logo": "https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "IX969",
+      "origin": "Kannur",
+      "date": "2022-05-20 12:10:14",
+      "airline_logo":"https://api.bac.bh/api/fids/IX.png",
+      "airline": "AirIndia",
+      "status":"early",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "TK7665",
+      "origin": "Sabina Goksen",
+      "date": "2022-05-20 12:50:14",
+      "airline_logo": "https://api.bac.bh/api/fids/TK.png",
+      "airline": "TurkishAirlines",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF1172",
+      "origin": "Siakot",
+      "date": "2022-05-20 13:40:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status": "cancelled",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF877",
+      "origin": "Multan",
+      "date": "2022-05-20 13:20:14",
+      "airline_logo": "https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "FD0572",
+      "origin": "Dubai",
+      "date": "2022-05-20 14:00:14",
+      "airline_logo":"https://api.bac.bh/api/fids/FZ.png",
+      "airline": "FlyDubai",
+      "status": "cancelled",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "L12177",
+      "origin": "Kuwait",
+      "date": "2022-05-20 14:15:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "FZ6232",
+      "origin": "Vilnius",
+      "date": "2022-05-20 14:30:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status": "on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "FZ8679",
+      "origin": "Dubai",
+      "date": "2022-05-20 15:00:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF087",
+      "origin": "Dubai",
+      "date": "2022-05-20 15:10:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF824",
+      "origin": "Cairo",
+      "date": "2022-05-20 15:30:14",
+      "airline_logo":"https://api.bac.bh/api/fids/MS.png",
+      "airline": "EgyptAir",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF183",
+      "origin": "Dubai",
+      "date": "2022-05-20 16:10:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF0810",
+      "origin": "Cairo",
+      "date": "2022-05-20 16:15:14",
+      "airline_logo":"https://api.bac.bh/api/fids/MS.png",
+      "airline": "EgyptAir",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF5168",
+      "origin": "Abu Dhabi",
+      "date": "2022-05-20 17:00:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"on time",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF318",
+      "origin": "Abu Dhabi",
+      "date": "2022-05-20 17:10:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"on time",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF599",
+      "origin": "Jeddah",
+      "date": "2022-05-20 17:35:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF577",
+      "origin": "Abu Dhabi",
+      "date": "2022-05-20 17:40:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF551",
+      "origin": "Dubai",
+      "date": "2022-05-20 18:30:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"cancelled",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF116",
+      "origin": "Sharjah",
+      "date": "2022-05-20 18:50:14",
+      "airline_logo":"https://api.bac.bh/api/fids/G9.png",
+      "airline": "AirArabia",
+      "status":"cancelled",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF131",
+      "origin": "Istambul",
+      "date": "2022-05-20 19:00:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF112",
+      "origin": "Kyiv",
+      "date": "2022-05-20 19:35:14",
+      "airline_logo": "https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "IX987",
+      "origin": "Kannur",
+      "date": "2022-05-20 20:10:14",
+      "airline_logo":"https://api.bac.bh/api/fids/IX.png",
+      "airline": "AirIndia",
+      "status":"early",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "TK675",
+      "origin": "Sabina Goksen",
+      "date": "2022-05-20 20:30:14",
+      "airline_logo": "https://api.bac.bh/api/fids/TK.png",
+      "airline": "TurkishAirlines",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "GF152",
+      "origin": "Siakot",
+      "date": "2022-05-20 21:15:14",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status": "cancelled",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "GF117",
+      "origin": "Multan",
+      "date": "2022-05-20 21:45:14",
+      "airline_logo": "https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air",
+      "status":"early",
+      "flight-status": "departures"
+    },
+    {
+      "flight_number": "FD222",
+      "origin": "Dubai",
+      "date": "2022-05-20 22:00:14",
+      "airline_logo":"https://api.bac.bh/api/fids/FZ.png",
+      "airline": "FlyDubai",
+      "status": "cancelled",
+      "flight-status": "arrivals"
+    },
+    {
+      "flight_number": "L1587",
+      "origin": "Kuwait",
+      "date": "2022-05-20 22:30:14",
+      "airline_logo": "https://api.bac.bh/api/fids/LH.png",
+      "airline": "Lufthansa",
+      "status":"early",
+      "flight-status": "departures"
     }
   ]
 }
