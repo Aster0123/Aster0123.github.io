@@ -73,7 +73,7 @@
       "flight-status": "departures"
     },
     {
-      "flight_number": "GF511",
+      "flight_number": "GF5121",
       "origin": "Jeddah",
       "date": "2022-05-19 10:15:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
@@ -452,7 +452,7 @@
       "flight-status": "departures"
     },
     {
-      "flight_number": "GF551",
+      "flight_number": "GF351",
       "origin": "Dubai",
       "date": "2022-05-20 11:00:14",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
